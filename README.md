@@ -2,4 +2,4 @@
 My First GitHub Repository
 My name is Muskaan Fatima
 <br>
-I am an Engineering Student
+I am an Engineering Student of AI&DS
